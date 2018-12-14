@@ -1,3 +1,5 @@
+package fr.efrei.utils
+
 import com.google.gson._
 
 object CarsUtils {
