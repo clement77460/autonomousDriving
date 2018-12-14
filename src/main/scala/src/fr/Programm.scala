@@ -10,7 +10,6 @@ import org.apache.spark.streaming.kafka010.ConsumerStrategies.Subscribe
 object Programm {
 
   def main(ars:Array[String])={
-    println("main")
     sparkStreaming()
 
   }
