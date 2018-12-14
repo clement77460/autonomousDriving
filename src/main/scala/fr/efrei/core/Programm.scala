@@ -10,7 +10,7 @@ import org.apache.spark.streaming.kafka010.ConsumerStrategies.Subscribe
 object Programm {
 
   def main(ars:Array[String])={
-    sparkStreaming()
+
 
   }
 
@@ -48,4 +48,5 @@ object Programm {
     ssc.awaitTermination()  // Wait for the computation to terminate
     println("end sparkStreaming")
   }
+
 }
