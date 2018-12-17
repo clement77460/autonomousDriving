@@ -7,6 +7,7 @@ object mainExtraction {
   def main(args: Array[String]): Unit = {
 
     println(CarsMining.loadData().count())
-
+    println(CarsMining.avgEngineTemperatureIsFailing())
+    //println(CarsMining.avgEngineTemperatureIsMoving())
   }
 }

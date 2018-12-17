@@ -4,7 +4,7 @@
 		module="reponsequestion-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20181214163241"
+		publication="20181216101650"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>

@@ -4,7 +4,7 @@
 		module="autonomousdriving$sources"
 		revision="0.1"
 		status="integration"
-		publication="20181214163002"
+		publication="20181216153413"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
