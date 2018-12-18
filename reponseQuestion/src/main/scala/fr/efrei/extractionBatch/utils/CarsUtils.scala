@@ -4,8 +4,8 @@ import com.google.gson._
 
 object CarsUtils {
 	case class Cars (
-		lat : String,
-		long : String,
+		lat : Float,
+		long : Float,
 		vehiculeId : String,
 		isFailing : Boolean,
 		temperature : Int,

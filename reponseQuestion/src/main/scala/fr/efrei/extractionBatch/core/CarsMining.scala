@@ -55,13 +55,14 @@ object CarsMining {
   def failingCity() ={
 	loadData().map(a => (getCityName(a.long,a.lat),1))
 		.reduceByKey( _ +_ )
-		.sortBy(_,_.2)
+		.sortByKey()
   }
   
   def failingByFuel() ={
 	val rdd=loadData().filter(a=> a.isFailing)
-    val countLine=rdd.count()
-	rdd.map(a=>	(rdd.filter(b => b.fuelInTank==0)/countLine))
-      .reduce((a,b)=>a+b)
+    val countFailing=rdd.count()
+	val countFailingFuel=rdd.filter(a => a.fuelInTank==0)
+							.count()
+	countFailingFuel/countFailing
   }
 }

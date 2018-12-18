@@ -9,5 +9,8 @@ object mainExtraction {
     println(CarsMining.loadData().count())
     println(CarsMining.avgEngineTemperatureIsFailing())
     //println(CarsMining.avgEngineTemperatureIsMoving())
+	
+	println(CarsMining.failingCity())
+	println(CarsMining.failingByFuel())
   }
 }
