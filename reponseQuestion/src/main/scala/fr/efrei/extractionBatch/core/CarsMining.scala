@@ -18,7 +18,7 @@ object CarsMining {
 
     val sc = SparkContext.getOrCreate(conf)
 
-    sc.textFile(pathTo)
+    sc.textFile(pathToFile)
       .mapPartitions(CarsUtils.parseFromJson(_))
 
   }
@@ -53,16 +53,16 @@ object CarsMining {
   }
   
   def failingCity() ={
-	loadData().map(a => (getCityName(a.long,a.lat),1))
-		.reduceByKey( _ +_ )
-		.sortByKey()
+	  loadData().filter(a=> a.isFailing)
+      .map(a => (getCityName(a.long,a.lat),1))
+		  .reduceByKey( _ +_ )
+		  .sortByKey(false)
   }
   
   def failingByFuel() ={
-	val rdd=loadData().filter(a=> a.isFailing)
+	  val rdd=loadData().filter(a=> a.isFailing)
     val countFailing=rdd.count()
-	val countFailingFuel=rdd.filter(a => a.fuelInTank==0)
-							.count()
-	countFailingFuel/countFailing
+    ((rdd.filter(a => a.fuelInTank==0)
+    .count().toFloat)/countFailing)*100
   }
 }
