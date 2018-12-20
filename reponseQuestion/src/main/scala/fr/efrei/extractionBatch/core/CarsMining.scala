@@ -19,7 +19,7 @@ object CarsMining {
     val sc = SparkContext.getOrCreate(conf)
     sc.setLogLevel("off")
 
-    sc.textFile(pathToFile)
+    sc.textFile(pathTo)
       .mapPartitions(CarsUtils.parseFromJson(_))
 
   }
@@ -37,8 +37,10 @@ object CarsMining {
 
     val rdd=loadData().filter(a=> a.isMoving)
     val countLine=rdd.count()
-    rdd.map(a=>(a.engineTemperature/countLine))
-      .reduce((a,b)=>a+b)
+    if(countLine!=0) {
+      rdd.map(a => (a.engineTemperature / countLine))
+        .reduce((a, b) => a + b)
+    }
 
   }
   
