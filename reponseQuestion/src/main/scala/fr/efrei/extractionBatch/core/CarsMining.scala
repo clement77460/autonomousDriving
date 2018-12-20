@@ -17,6 +17,7 @@ object CarsMining {
       .setMaster("local[*]")
 
     val sc = SparkContext.getOrCreate(conf)
+    sc.setLogLevel("off")
 
     sc.textFile(pathToFile)
       .mapPartitions(CarsUtils.parseFromJson(_))
