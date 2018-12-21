@@ -4,7 +4,7 @@
 		module="kafkaproducer$sources"
 		revision="0.1"
 		status="integration"
-		publication="20181220104647"
+		publication="20181221154132"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

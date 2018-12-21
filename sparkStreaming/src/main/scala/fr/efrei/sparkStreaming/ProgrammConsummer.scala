@@ -15,12 +15,13 @@ object ProgrammConsummer {
   }
 
   def sparkStreaming()={
+    val timeRecord=1
     println("start sparkStreaming")
     val conf = new SparkConf().setMaster("local[*]")
       .setAppName("Simple Streaming Application")
       .set("spark.files.overwrite","true")
 
-    val ssc = new StreamingContext(conf, Seconds(4))
+    val ssc = new StreamingContext(conf, Seconds(timeRecord))
 
 
     val kafkaParams = Map[String, Object](
@@ -39,7 +40,7 @@ object ProgrammConsummer {
       Subscribe[String, String](topics, kafkaParams)
     )
 
-    stream.map(record => (record.value)).saveAsTextFiles("data/carRecord","json")
+    stream.map(record => (record.value)).saveAsTextFiles("../reponseQuestion/data/carRecord","json")
 
 
     ssc.start()             // Start the computation

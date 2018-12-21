@@ -12,7 +12,7 @@ object CarsUtils {
 		engineTemperature : Int,
 		fuelInTank : Int,
 		isMoving : Boolean,
-		timeStamp: Long
+		timestamp: Long
 		)
 
 	

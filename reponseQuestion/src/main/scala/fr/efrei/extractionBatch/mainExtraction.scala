@@ -11,6 +11,12 @@ object mainExtraction {
     println("Avg Engine Temperature Moving: "+CarsMining.avgEngineTemperatureIsMoving())
     println("Failing City: ")
 	  CarsMining.failingCity().foreach(println)
+
+    println("Failing City without double : ")
+    CarsMining.newFailingCity().foreach(println)
+
 	  println("Failing Fuel: "+CarsMining.failingByFuel()+"%")
+
+
   }
 }

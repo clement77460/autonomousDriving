@@ -2,82 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64ea8b1b-bcb6-4367-96d4-fefb73de87b1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/libraries/sbt__com_carrotsearch_hppc_0_7_2_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_7_9_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/libraries/sbt__com_google_code_findbugs_jsr305_3_0_2_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/libraries/sbt__com_univocity_univocity_parsers_2_7_3_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/libraries/sbt__com_vlkan_flatbuffers_1_2_0_3f79e055_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/libraries/sbt__commons_codec_commons_codec_1_10_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/libraries/sbt__io_airlift_aircompressor_0_10_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/libraries/sbt__joda_time_joda_time_2_9_9_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/libraries/sbt__org_antlr_antlr4_runtime_4_7_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/libraries/sbt__org_apache_arrow_arrow_format_0_10_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/libraries/sbt__org_apache_arrow_arrow_memory_0_10_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/libraries/sbt__org_apache_arrow_arrow_vector_0_10_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/libraries/sbt__org_apache_orc_orc_core_1_5_2_nohive_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/libraries/sbt__org_apache_orc_orc_mapreduce_1_5_2_nohive_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/libraries/sbt__org_apache_orc_orc_shims_1_5_2_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/libraries/sbt__org_apache_parquet_parquet_column_1_10_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/libraries/sbt__org_apache_parquet_parquet_common_1_10_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/libraries/sbt__org_apache_parquet_parquet_encoding_1_10_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/libraries/sbt__org_apache_parquet_parquet_format_2_4_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/libraries/sbt__org_apache_parquet_parquet_hadoop_1_10_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/libraries/sbt__org_apache_parquet_parquet_jackson_1_10_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/libraries/sbt__org_apache_spark_spark_catalyst_2_12_2_4_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/libraries/sbt__org_apache_spark_spark_sketch_2_12_2_4_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/libraries/sbt__org_apache_spark_spark_sql_2_12_2_4_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/libraries/sbt__org_codehaus_janino_commons_compiler_3_0_9_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/libraries/sbt__org_codehaus_janino_janino_3_0_9_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_12_1_1_0_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/modules/sparkStreaming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/.idea/modules/sparkStreaming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/active.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/ProgrammProducer$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/ProgrammProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/kafkaproducer$sources/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/kafkaproducer$sources/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/kafkaproducer$sources/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/kafkaproducer$sources/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-kafkaproducer$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-kafkaproducer$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-kafkaproducer$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-kafkaproducer$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-kafkaproducer$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-kafkaproducer$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-kafkaproducer$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-kafkaproducer$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-kafkaproducer$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-kafkaproducer$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-kafkaproducer$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-kafkaproducer$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-kafkaproducer$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-kafkaproducer$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-kafkaproducer$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-kafkaproducer$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-kafkaproducer$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-kafkaproducer$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-kafkaproducer$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-kafkaproducer$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-kafkaproducer$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-kafkaproducer$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reponseQuestion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reponseQuestion/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reponseQuestion/data/sample.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reponseQuestion/data/value.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reponseQuestion/src/main/scala/fr/efrei/extractionBatch/core/CarsMining.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../reponseQuestion/src/main/scala/fr/efrei/extractionBatch/core/CarsMining.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reponseQuestion/src/main/scala/fr/efrei/extractionBatch/mainExtraction.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../reponseQuestion/src/main/scala/fr/efrei/extractionBatch/mainExtraction.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reponseQuestion/src/main/scala/fr/efrei/extractionBatch/utils/CarsUtils.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../reponseQuestion/src/main/scala/fr/efrei/extractionBatch/utils/CarsUtils.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reponseQuestion/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/../reponseQuestion/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reponseQuestion/target/scala-2.12/classes/fr/efrei/extractionBatch/core/CarsMining$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../reponseQuestion/target/scala-2.12/classes/fr/efrei/extractionBatch/core/CarsMining$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reponseQuestion/target/scala-2.12/classes/fr/efrei/extractionBatch/core/CarsMining.class" beforeDir="false" afterPath="$PROJECT_DIR$/../reponseQuestion/target/scala-2.12/classes/fr/efrei/extractionBatch/core/CarsMining.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reponseQuestion/target/scala-2.12/classes/fr/efrei/extractionBatch/mainExtraction$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../reponseQuestion/target/scala-2.12/classes/fr/efrei/extractionBatch/mainExtraction$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reponseQuestion/target/scala-2.12/classes/fr/efrei/extractionBatch/utils/CarsUtils$Cars$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../reponseQuestion/target/scala-2.12/classes/fr/efrei/extractionBatch/utils/CarsUtils$Cars$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reponseQuestion/target/scala-2.12/classes/fr/efrei/extractionBatch/utils/CarsUtils$Cars.class" beforeDir="false" afterPath="$PROJECT_DIR$/../reponseQuestion/target/scala-2.12/classes/fr/efrei/extractionBatch/utils/CarsUtils$Cars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reponseQuestion/target/scala-2.12/classes/fr/efrei/extractionBatch/utils/CarsUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../reponseQuestion/target/scala-2.12/classes/fr/efrei/extractionBatch/utils/CarsUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reponseQuestion/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../reponseQuestion/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reponseQuestion/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../reponseQuestion/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sparkStreaming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/project/target/config-classes/$68ef9b6cd55d8b821a2b$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/project/target/config-classes/$68ef9b6cd55d8b821a2b.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/project/target/config-classes/$68ef9b6cd55d8b821a2b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/src/main/scala/fr/efrei/sparkStreaming/CarsUtils.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/src/main/scala/fr/efrei/sparkStreaming/KafkaProducerObject.scala" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../sparkStreaming/src/main/scala/fr/efrei/sparkStreaming/ProgrammConsummer.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/src/main/scala/fr/efrei/sparkStreaming/ProgrammConsummer.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/src/main/scala/fr/efrei/sparkStreaming/ProgrammProducer.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/default/sparkstreaming$sources/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/default/sparkstreaming$sources/0.1/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/default/sparkstreaming$sources/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/default/sparkstreaming$sources/0.1/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/default/sparkstreaming_2.12/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/default/sparkstreaming_2.12/0.1/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/default/sparkstreaming_2.12/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/default/sparkstreaming_2.12/0.1/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming$sources-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming$sources-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming$sources-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming$sources-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming$sources-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming$sources-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming$sources-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming$sources-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming$sources-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming$sources-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming$sources-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming_2.12-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming_2.12-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming_2.12-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming_2.12-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming_2.12-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming_2.12-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming_2.12-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming_2.12-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming_2.12-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming_2.12-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming_2.12-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming_2.12-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming_2.12-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming_2.12-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming_2.12-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming_2.12-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/resolution-cache/reports/default-sparkstreaming_2.12-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/classes/ProgrammProducer$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/classes/ProgrammProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/classes/fr/efrei/sparkStreaming/CarsUtils$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/classes/fr/efrei/sparkStreaming/CarsUtils$Cars$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/classes/fr/efrei/sparkStreaming/CarsUtils$Cars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/classes/fr/efrei/sparkStreaming/CarsUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/classes/fr/efrei/sparkStreaming/KafkaProducerObject$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/classes/fr/efrei/sparkStreaming/KafkaProducerObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/classes/fr/efrei/sparkStreaming/ProgrammConsummer$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/classes/fr/efrei/sparkStreaming/ProgrammConsummer$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/sparkstreaming_2.12-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/scala-2.12/sparkstreaming_2.12-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/streams/compile/packageBin/$global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/streams/compile/packageBin/$global/streams/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sparkStreaming/target/streams/compile/packageBin/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../sparkStreaming/target/streams/compile/packageBin/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/compile/$global/$global/discoveredMainClasses/data" beforeDir="false" afterPath="$PROJECT_DIR$/../target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/../target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -95,7 +81,7 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,23 +91,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/fr/efrei/kafkaProducer/KafkaProducerObject.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-              <folding>
-                <element signature="e#32#59#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/fr/efrei/kafkaProducer/LaunchProducer.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -141,9 +124,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-2" />
-    <option name="y" value="43" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="326" />
+    <option name="y" value="32" />
     <option name="width" value="859" />
     <option name="height" value="691" />
   </component>
@@ -153,7 +136,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,10 +174,12 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545300196902" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545403914135" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sparkStreaming" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -291,41 +275,48 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
+    <frame x="326" y="32" width="859" height="691" extended-state="0" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21482602" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36921152" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" weight="0.32872504" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32872504" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32795697" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="sbt" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.32872504" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="sbt" order="8" />
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/fr/efrei/kafkaProducer/ProgrammProducer.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/fr/efrei/kafkaProducer/KafkaProducerObject.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -333,27 +324,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/fr/efrei/kafkaProducer/ProgrammProducer.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/fr/efrei/kafkaProducer/LaunchProducer.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/fr/efrei/kafkaProducer/KafkaProducerObject.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding>
-            <element signature="e#32#59#0" expanded="true" />
-          </folding>
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
         </state>
       </provider>
     </entry>
